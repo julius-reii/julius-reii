@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">🏫 Currently Studying At Kantipur Engineering College<br>📚 I'm Currently learning Git<br>📫 Contact: rishav.maharjan@proton.me <br> Gym 💪</p>
+<p align="center">🏫 Currently Studying At Kantipur Engineering College📫 Contact: rishav.maharjan@proton.me <br> Gym 💪</p>
 
 ###
 
